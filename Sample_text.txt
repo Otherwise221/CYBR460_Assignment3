@@ -1,0 +1,5 @@
+This is a test file. I want my python program to be able to count the words I include in this
+text. My main goal is that it counts it accurately.My name is Lateefat and this
+file will be used to test the code for an application I am writing for my
+Cybr 460 assignment. If the code works I will then make a docker file and dockerize the
+pyhton program or application.
